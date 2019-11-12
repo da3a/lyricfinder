@@ -1,6 +1,9 @@
+
+//1. https://www.youtube.com/watch?v=NDEt0KdDbhk
+//2. https://www.youtube.com/watch?v=jiM0wqQZMWg
+//3. https://www.youtube.com/watch?v=ktPocNL0qGg
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
