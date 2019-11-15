@@ -25,11 +25,10 @@ export class Provider extends Component {
     //     heading: 'top 10 Teacks'
     // }
 
-
     state = {
         track_list : [
         ],
-        heading: 'top 10 Tracks',
+        heading: 'top 10 tracks',
         dispatch : action => this.setState(state => reducer(state, action))
     }
 
